@@ -1,1 +1,8 @@
+Context
+Zillow's Economic Research Team collects, cleans and publishes housing and economic data from a variety of public and proprietary sources. Public property record data filed with local municipalities -- including deeds, property facts, parcel information and transactional histories -- forms the backbone of our data products, and is fleshed out with proprietary data derived from property listings and user behavior on Zillow.
 
+The large majority of Zillow's aggregated housing market and economic data is made available for free download at zillow.com/data.
+
+Source
+
+https://www.kaggle.com/poonaml/real-estate-prediction-on-zillow-with-prophet/data 
